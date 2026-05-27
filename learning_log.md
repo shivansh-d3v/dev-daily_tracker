@@ -789,3 +789,10 @@ Transformers use self-attention mechanisms to process sequences in parallel.
 Replication copies data across multiple database instances for availability.
 
 🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html
+
+## 2026-05-27 — [AI] Embedding Spaces
+**Difficulty:** Intermediate
+
+Embeddings map discrete tokens to continuous vector representations.
+
+🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings

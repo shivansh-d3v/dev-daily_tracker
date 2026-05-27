@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Database Replication** (System Design).
+Today I explored **Embedding Spaces** (AI).
 
-Replication copies data across multiple database instances for availability.
+Embeddings map discrete tokens to continuous vector representations.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering
