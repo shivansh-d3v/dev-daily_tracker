@@ -1867,3 +1867,10 @@ LLMs are massive models trained on vast text corpora for language understanding.
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-10-28 — [System Design] Database Indexing
+**Difficulty:** Intermediate
+
+Indexes accelerate database queries by creating searchable data structures.
+
+🔗 Reference: https://use-the-index-luke.com/
